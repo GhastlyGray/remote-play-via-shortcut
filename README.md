@@ -2,9 +2,8 @@
 > - Not *EVERY* app will be compatable with this method, although all apps run through steam should be!  
 >   - *(at the moment it seems that apps that connect to your browser dont seem to work for now...)*  
 > - This system is CASE SENSITIVE!!! Please pay close attention to when you have to rename a file!  
->   - *(if it applies to a file the second bullet point will remind you!)*
-
-
+>   - *(if it applies to a file the second bullet point will remind you!)*  
+  
 ### **FOLDER SETUP**
 > - Find a steam game that normally supports remote play  
 >   - *(we'll refer to this as the "Host" or "Host Game")* 
@@ -17,7 +16,7 @@
 > - Finally remove all files from the GAME's folder and place the renamed ShortcutHub.exe file into the now empty folder
 >   - *(if opening the Host Game from the steam library it should boot into the Shortcut Hub, if it fails then you've done somthing wrong!)*
   
-### LOADING AN APP  
+### **LOADING AN APP**  
 > - Create a new sub-folder in the Game's folder and rename it to "shortcuts"  
 >   - *(like the ShortcutHub Re-name this folder is also CASE SENSITIVE!)*
 > - Locate the app you wish to remote-play with and create a new shortcut to it  
